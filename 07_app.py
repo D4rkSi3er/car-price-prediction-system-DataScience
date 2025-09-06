@@ -12,7 +12,7 @@ def get_gemini_analysis(car_details, predicted_price):
     Gets a descriptive analysis of the car's valuation from the Gemini API.
     This function is now more robust to handle potential API errors.
     """
-    api_key = "AIzaSyAdn9SwF2w0UnRsC-Z5R7mP7hC4XDEXSR8" 
+    api_key = "" 
     api_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key={api_key}"
 
     prompt = f"""
