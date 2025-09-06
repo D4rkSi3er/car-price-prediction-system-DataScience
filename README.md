@@ -59,8 +59,8 @@ This project demonstrates a complete end-to-end data science workflow. It begins
 Follow these steps to set up the project on your local machine.
 1. Clone the Repository
 
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-cd YOUR_REPOSITORY_NAME
+git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/D4rkSi3er/car-price-prediction-system-DataScience)
+cd car-price-prediction-system-DataScience
 
 2. Install Dependencies
 
