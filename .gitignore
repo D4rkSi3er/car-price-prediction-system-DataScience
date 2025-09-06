@@ -1,0 +1,23 @@
+Ignore Python's compiled files, cache, and virtual environments
+
+pycache/
+*.pyc
+venv/
+.venv/
+env/
+.env
+Ignore IDE and editor directories
+
+.vscode/
+.idea/
+Ignore data files that can be large
+
+*.csv
+*.pkl
+Ignore generated plots
+
+plots/
+--- MOST IMPORTANT ---
+Ignore the local secrets configuration file
+
+.streamlit/secrets.toml
